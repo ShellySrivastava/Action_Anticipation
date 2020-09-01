@@ -2,13 +2,13 @@
 This repo contains the code for my MSc research work based on Action Anticipation using Acticipate Dataset.
 The dataset can be downloaded from http://vislab.isr.ist.utl.pt/datasets/
 
-*Platform: Google Colab
-*Language: Python
-*DL framework: Pytorch
+* Platform: Google Colab
+* Language: Python
+* DL framework: Pytorch
 
-*Additional packages used:
-*OpenPose
-*OpenCV
+* Additional packages used:
+* OpenPose
+* OpenCV
 
 1. The original dataset can be downloaded from the link given above. The preprocessed files can be found in \Processed Dataset folder
 2. The code for preprocessing and models can be found under \code
