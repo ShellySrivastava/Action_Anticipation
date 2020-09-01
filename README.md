@@ -19,3 +19,9 @@ The dataset can be downloaded from http://vislab.isr.ist.utl.pt/datasets/
 3. The trained models used for reporting accuracy and performance can be found under \Trained Models
 4. The numpy for accuracy per observation ratio can be found at \Accuracy info
 5. The figures used in the report can be found at \Figures
+
+References:
+
+1. https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+2. https://github.com/bentrevett/pytorch-seq2seq
+3. https://pytorch.org/tutorials/
